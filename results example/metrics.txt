@@ -1,0 +1,4 @@
+Metrics (test set)
+------------------
+LinearRegression -> MAE: 0.347206 | RMSE: 0.492878 | MAPE: 47.8623%
+RandomForest     -> MAE: 0.327448 | RMSE: 0.481410 | MAPE: 42.9354%
